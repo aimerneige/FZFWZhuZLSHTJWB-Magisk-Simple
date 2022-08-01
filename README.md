@@ -1,5 +1,7 @@
 # FZFWZhuZLSHTJWB-Magisk-Simple
 
+![](https://cdn1.foundertype.com/fontmanage/Public/img/5f72febe02b8b.jpg)
+
 使用[「CJK 字体 Magisk 模块模板 简易版」](https://github.com/lxgw/simple-cjk-font-magisk-module-template)制作的[「方正FW筑紫老式黑体」](https://www.foundertype.com/index.php/FontInfo/index/id/5358)字体模块。
 
 [字体模板说明](README-lxgw.md)
